@@ -1,4 +1,4 @@
-# MLOps-Assignment
+# MLOps-NLP-Assignment
 An MLOps NLP Case Study to create an end-to-end MLOps pipeline for building a custom CRF Model to predict the treatment for a disease.
 
 
